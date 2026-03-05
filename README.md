@@ -1,47 +1,30 @@
-# Statbot Pro
+# StatBot Pro – Autonomous CSV Data Analyst Agent
 
-Statbot Pro is a simple AI-style data analysis agent built using Python and Pandas.
+StatBot Pro is a Python-based AI data analyst agent that can analyze CSV files, answer questions, and generate visual graphs automatically.
 
-## Features
+## Week 1
+CSV data analysis using Python Pandas.
 
-Week 1
-- Load CSV data using Pandas
-- Ask questions about the dataset
-- Calculate statistics like total revenue
-- Basic data analysis
+Features:
+- Load CSV dataset
+- Ask questions about the data
+- Calculate totals and statistics
 
-Week 2
-- Generate graphs using Matplotlib
-- Visualize revenue by product
-- Plot charts from user queries
+## Week 2
+Graph generation using Matplotlib.
 
-## Technologies Used
+Features:
+- Generate revenue graphs
+- Visualize data automatically
+- Save chart outputs
 
+## Tech Stack
 - Python
 - Pandas
 - Matplotlib
+- LangChain (Next Phase)
 
-## How to Run
+## Project Goal
+To build an autonomous data analyst agent that can understand user questions and analyze CSV data automatically.
 
-1. Install dependencies
-
-pip install pandas matplotlib
-
-2. Run the application
-
-python app.py
-
-## Example Questions
-
-- total revenue
-- show graph
-- exit
-
-## Project Structure
-
-statbot_pro/
-app.py
-agent.py
-data.csv
-README.md
 
