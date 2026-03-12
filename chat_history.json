@@ -1,0 +1,22 @@
+[
+    {
+        "question": "how many rows",
+        "answer": 4
+    },
+    {
+        "question": "graph",
+        "answer": "I don't understand the question"
+    },
+    {
+        "question": "how many rows",
+        "answer": 4
+    },
+    {
+        "question": "plot sales over time",
+        "answer": "Graph generated and saved as sales_chart.png"
+    },
+    {
+        "question": "plot saves over time",
+        "answer": "I don't understand the question"
+    }
+]
